@@ -9,12 +9,13 @@ background-color: #1f2937;
 }
 .narrowheader {
     display: flex;
-gap: 1%;
+    gap: 1.5%;
+    margin: 0% 10%;
 }
 
 #logo {
     font-size: 24px;
-    font: bold;
+    font: bolder;
     color: #f9faf8;
     margin-right: auto;
 }
