@@ -4,10 +4,12 @@ body {
     margin: 0px;
 }
 
-.header{
+.header {
 background-color: #1f2937;
-display: flex;
-justify-content: space-between;
+}
+.narrowheader {
+    display: flex;
+gap: 1%;
 }
 
 #logo {
