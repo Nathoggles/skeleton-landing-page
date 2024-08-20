@@ -88,11 +88,11 @@ button {
     margin: 0% 18%;
     display: flex;
     flex-direction: column;
-    gap: 24px;
-    height: 50vh;
+    gap: 48px;
+    height: 45vh;
     align-items: center;
     justify-content: center;
-    padding: 5%;
+    padding: 20px;
 }
 
 #section2main {
@@ -104,8 +104,9 @@ button {
 
 #section2h {
     display: flex;
-    gap: 1%;
+    gap: 3%;
     width: 70%;
+    justify-content: center;
 }
 
 .illustrationContainer {
@@ -120,8 +121,8 @@ button {
 
 .illustration {
     border: 3px solid #3882f6;
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     border-radius: 5px;
     padding: 5px;
 }
