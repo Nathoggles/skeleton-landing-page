@@ -72,7 +72,7 @@ body {
     color: #1f2937;
 }
 
-button {
+#button1 {
     background-color: #3882f6;
     flex-shrink: 0;
     flex-grow: 0;
@@ -156,6 +156,42 @@ button {
     justify-content: end;
     font-weight: 800;
 }
+
+#section4background{
+    height: 31.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#section4h
+{
+    margin-top: 2%;
+    background-color: #3882f6;
+    width: 55%;
+    height: 52%;
+    color: #e5e7eb;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+}
+
+#callContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+#callMain {
+    font-size: 24px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+#callText {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 /*
 brief sections  height
 px   vh
